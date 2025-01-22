@@ -1,2 +1,1 @@
-The goal of this project is to develop an AI-powered tool capable of detecting sea turtle faces from images captured in the wild. By applying advanced machine learning techniques, we aim to create an automated system that can assist researchers in tracking individual sea turtles and monitoring their conservation status.
-The model was trained using a dataset of sea turtle images, with annotations highlighting the facial features for supervised learning. Convolutional Neural Networks (CNNs) were employed to train the model to recognize and classify the sea turtle faces effectively
+The goal of this project is to...
